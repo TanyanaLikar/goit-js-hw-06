@@ -10,4 +10,10 @@ itemEl.forEach(item => {
 })
 
 
+itemEl.forEach(elem => {    
+     console.log(`Category:`, elem.firstElementChild);
+    
+     console.log(`Elements:`,)
+ })
+ 
 
